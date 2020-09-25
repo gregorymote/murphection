@@ -1,2 +1,2 @@
 # murphection
-Next.js app
+Next.js app initial commit
